@@ -1,1 +1,0 @@
-# Food_detection_Streamlit_project
