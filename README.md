@@ -1,10 +1,7 @@
 # Fruits🍍-Vegetable🍅 Classification
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                   
 
-## [Watch Tutorial for this project](https://youtu.be/HTSDryllx0Y)
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/yt_thumb.jpg">
 
 ## Usage:-
 
@@ -24,11 +21,6 @@
   streamlit run Fruits_Vegetable_Classification.py
   ```
 
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 
-## Screenshots
-
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc1.PNG">
-<img src="https://github.com/Spidy20/Fruit_Vegetable_Recognition/blob/master/sc2.PNG">
 
 
