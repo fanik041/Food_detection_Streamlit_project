@@ -19,7 +19,11 @@
 
   ```
   streamlit run Fruits_Vegetable_Classification.py
+  
+  AWS url: http://3.17.225.8:8501
   ```
+
+
 
 
 
